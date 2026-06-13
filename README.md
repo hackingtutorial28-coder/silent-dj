@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/3y3ttcTy/file-00000000ce28724380148570eb383bcb.png" height="550" width="100%">
+  <img src="https://i.ibb.co/3y3ttcTy/file-00000000ce28724380148570eb383bcb.png" height="600" width="100%">
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&multiline=true&random=true&width=800&height=120&lines=Silent+dj+never+drop+the+mic+with+hand+shackles;24%2F7+in+the+mix;Always+hungry+for+beats" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&multiline=true&random=true&width=800&height=120&lines=Silent+dj+never+drop+the+mic+with+hand+shackles;24%2F7+in+the+mix;Always+hungry+for+beats" alt="Typing SVG">
   </a>
 
   <p align="center" style="color: #00ff00; text-shadow: 0 0 5px #00ff00;">
