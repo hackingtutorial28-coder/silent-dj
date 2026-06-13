@@ -8,7 +8,7 @@
 <strong>🎧 𝕊𝕀𝕃𝔼ℕ𝕋 𝔻𝕁 & 𝕄𝕀𝕏𝔼ℝ</strong>
 <br>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.="https://readme-typing-svg.demolab.com/demo/?weight=600&size=35&color=2A5DF7&background=3C4CFF00&vCenter=true&multiline=true&random=true&lines=Silent+dj+never+drop+the+mic+with+hand+shackles+Mix+%26+Master;Made+By+silent+wolf" alt="Typing SVG" style="font-size: 50px;"/>
+  <img src="https://readme-typing-svg.="https://readme-typing-svg.demolab.com/Mix+%26+Master;Made+By+silent+wolf" alt="Typing SVG" style="font-size: 50px;"/>
 </a>
 
 <p align="center">
