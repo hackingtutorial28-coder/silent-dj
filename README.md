@@ -8,7 +8,7 @@
 <strong>🎧 𝕊𝕀𝕃𝔼ℕ𝕋 𝔻𝕁 & 𝕄𝕀𝕏𝔼ℝ</strong>
 <br>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SILENT+DJ; Silayo+%26+Master;Made+By+dj+silayo" alt="Typing SVG" style="font-size: 50px;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SILENT+DJ; Mix+%26+Master;Made+By+dj+silayo" alt="Typing SVG" style="font-size: 50px;"/>
 </a>
 
 <p align="center">
