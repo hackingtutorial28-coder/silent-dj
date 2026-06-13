@@ -1,0 +1,20 @@
+{
+  "name": "Silent dj",
+  "description": "Professional WhatsApp Bot with auto-session authentication",
+  "repository": "https://github.com/djsilayo665-cpu/silentdj.git",
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "npm install"
+  },
+  "deploy": {
+    "startCommand": "node index.js",
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 10
+  },
+  "variables": {
+    "SESSION_ID": {
+      "description": "REQUIRED: Your session ID. Must begin with 'SILENT DJ-BOT'",
+      "required": true
+    }
+  }
+}
