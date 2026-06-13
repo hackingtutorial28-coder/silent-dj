@@ -12,7 +12,7 @@
 </a>
 
 <p align="center">
-  <img style="width: 500px; height: 500px; border-radius: 20px; box-shadow: 0 0 30px #00ff00, 0 0 50px rgba(0, 255, 0, 0.3);" src="https://i.ibb.co/KjMFtjGx/wolfbot.png" alt="Silent DJ — Mixer Dashboard" />
+  <img style="width: 500px; height: 500px; border-radius: 20px; box-shadow: 0 0 30px #00ff00, 0 0 50px rgba(0, 255, 0, 0.3);" src="https://i.ibb.co/7tTP2MHz/IMG-20260527-WA0024.jpg." alt="Silent DJ — Mixer Dashboard" />
 </p>
 
 <p align="center" style="color: #00ff00; text-shadow: 0 0 5px #00ff00;">
