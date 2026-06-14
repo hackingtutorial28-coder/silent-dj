@@ -148,6 +148,7 @@ This bot never sleeps. It's always ready to mix, stream, and respond. Deployed o
 
 ### Local Setup
 ```bash
+npm i @vercel/speed-insights
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
 npm install
