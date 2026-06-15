@@ -1,4 +1,4 @@
-const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } = require('@whiskeysockets/baileys');
+const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } =await import('@whiskeysockets/baileys');
 const Pino = require('pino');
 const fs = require('fs-extra');
 const path = require('path');
